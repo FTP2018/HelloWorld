@@ -65,3 +65,10 @@ We have the power to change this. Companies respond to incentives. If enough of 
 1. To be clear I’m not saying quit your job, just ensure your next job isn’t at a company that does not have diverse leadership at the top level.
 2. Tip your drivers/delivery people in cash! 
 3. The more women I show this letter to, the more stories I hear.  Sadly these problems are [industry wide](https://www.buzzfeednews.com/article/doree/we-surveyed-hundreds-about-techs-harassment-problem) and deeply entrenched
+
+
+- MDunitz
+
+
+
+
