@@ -1,3 +1,4 @@
+add new resources [here](https://github.com/FTP2018/HelloWorld/blob/resources/resources.md)
 # Articles
 * [Reflecting on one very strange year at uber](https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber)
 * [Inside the culture of sexism at riot games](https://kotaku.com/inside-the-culture-of-sexism-at-riot-games-1828165483)
