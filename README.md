@@ -69,5 +69,7 @@ We have the power to change this. Companies respond to incentives. If enough of 
 ## Signatories
 - MDunitz
 - ttung
+- shanaxel42
+- vievehal
 
 
