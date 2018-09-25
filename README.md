@@ -46,7 +46,7 @@ During the three months I was on the PIP, my manager rarely brought up my perfor
  
 Qualitative data indicates this is a systemic problem rather than a personal one. When I surveyed the female engineers, 75% felt that they needed to change themselves to fit in or didn’t fit in at all. Two thirds were planning on leaving DoorDash within the next year. Based on my calculations, in 2017 DoorDash had a 38% attrition rate for female engineers compared to an 18% attrition rate for male engineers.
 
-Please [take the survey yourself](https://docs.google.com/forms/d/e/1FAIpQLSeSaan1Fubh-oOGcxkjLFHN4Ophr8PlSYpLWgj4x2lls2rnYQ/viewform?fbzx=-313908354668192260) or [update it](https://docs.google.com/forms/u/0/d/1zALYTkZSuXY_0oZxP1YOuaU7X_HHe7QKxGoqaKMzT-4/copy?pli=1). Send out your own version in your workplace to help gather data on aggregate experiences and consciously create inclusive workplace norms.
+Please [take the survey yourself](https://docs.google.com/forms/d/e/1FAIpQLSeSaan1Fubh-oOGcxkjLFHN4Ophr8PlSYpLWgj4x2lls2rnYQ/viewform?fbzx=-313908354668192260) to help gather data on aggregate experiences and consciously create inclusive workplace norms.
 
 When I left in May, I sent a letter similar to this one to DoorDash executives hoping they would take the opportunity to improve the overall culture. Unfortunately, in the four months since I left, they seem to have doubled down, poaching another (male) executive from Uber, losing 4 more female engineers (out of 16) and 50% (3 of 6) of women at the director level.
  
