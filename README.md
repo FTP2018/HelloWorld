@@ -26,7 +26,7 @@ The majority of the situations described were reported to HR or a member of the 
  
 My manager was unavailable, so I messaged my manager’s manager and arranged to meet. He agreed it was an inappropriate gift, said that other female engineers had had problems with that person in the past, and promised to talk to the gift giver. He then spent the rest of the meeting describing features of the gift givers upbringing. At the end of the meeting he promised if anything else happened he would talk to HR.
  
-I later asked my manager if I could speak with HR directly instead of waiting for another incident She said something to the effect that, while it was my decision, DoorDash is a startup that didn’t have procedures for those types of situations yet. Instead, she said she would speak with the engineer who gave me the sex dice, eventually he set up a second 1:1 to apologize. Shortly after he was assigned a female new grad to mentor. This was not the only time DoorDash assigned someone who had been reported for harassment to mentor a new female employee.
+I later asked my manager if I could speak with HR directly instead of waiting for another incident. She said something to the effect that, while it was my decision, DoorDash is a startup that didn’t have procedures for those types of situations yet. Instead, she said she would speak with the engineer who gave me the sex dice, eventually he set up a second 1:1 to apologize. Shortly after he was assigned a female new grad to mentor. This was not the only time DoorDash assigned someone who had been reported for harassment to mentor a new female employee.
  
 A month later, following Susan Fowler’s letter describing her experience at Uber, the DoorDash general counsel, sent out an email essentially saying he didn’t want us to be like Uber.  Taking him at his word, I met with him. He seemed genuinely concerned and set up a meeting for me with the head of HR for the eng team. Both the HR representative and the general counsel assured me that DoorDash did have a sexual harassment policy — they seemed to be implying that my manager (and her manager) simply didn’t know better.
  
@@ -64,7 +64,7 @@ We have the power to change this. Companies respond to incentives. If enough of 
 
 1. To be clear I’m not saying quit your job, just ensure your next job isn’t at a company that does not have diverse leadership at the top level.
 2. Tip your drivers/delivery people in cash! 
-3. The more women I show this letter to, the more stories I hear.  Sadly these problems are [industry wide](https://www.buzzfeednews.com/article/doree/we-surveyed-hundreds-about-techs-harassment-problem) and deeply entrenched
+3. The more women I show this letter to, the more stories I hear.  Sadly these problems are [industry wide](https://www.buzzfeednews.com/article/doree/we-surveyed-hundreds-about-techs-harassment-problem) and deeply entrenched.
 
 ## Signatories
 - MDunitz
