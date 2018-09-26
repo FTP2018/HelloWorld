@@ -8,6 +8,7 @@
 * [At Nike, Revolt Led by Women Leads to Exodus of Male Executives](https://www.nytimes.com/2018/04/28/business/nike-women.html)
 * [Women in Tech Band Together to Track Diversity, After Hours](https://www.nytimes.com/2016/05/04/technology/women-in-tech-band-together-to-track-diversity-after-hours.html?_r=0)
 * [Why Is Silicon Valley So Awful to Women?](https://www.theatlantic.com/magazine/archive/2017/04/why-is-silicon-valley-so-awful-to-women/517788/)
+* [Why Do Black Women Leave Tech?](https://www.blacksintechnology.net/why-black-women-leave-tech/)
 * [Don’t Underestimate the Power of Women Supporting Each Other at Work](https://hbr.org/2018/09/dont-underestimate-the-power-of-women-supporting-each-other-at-work?utm_campaign=hbr&utm_source=facebook&utm_medium=social)
 * [The Radical Boldness of the McDonald’s Sexual-Harassment Strike](https://www.thecut.com/2018/09/mcdonalds-sexual-harassment-strike-takes-place-in-10-cities.html)
 * [All career advice for women is a form of gaslighting](https://qz.com/work/1363399/all-career-advice-for-women-is-a-form-of-gaslighting/)
@@ -17,6 +18,7 @@
 * [It's Time for 100 Women CEOs in the Fortune 500](https://www.rockefellerfoundation.org/blog/its-time-for-100-women-ceos-in-the-fortune-500/)
 * [Tech Women Choose Possibility](https://www.recode.net/2015/5/13/11562596/tech-women-choose-possibility)
 * [Hundreds Of People Told Us How Sexual Harassment In Tech Derailed Their Careers](https://www.buzzfeednews.com/article/doree/we-surveyed-hundreds-about-techs-harassment-problem)
+* [How Black Women Describe Navigating Race and Gender in the Workplace](https://hbr.org/2018/03/how-black-women-describe-navigating-race-and-gender-in-the-workplace)
 # Groups/Projects
 * [Project Include](http://projectinclude.org/)
 * [Hire More Women in Tech](https://www.hiremorewomenintech.com/)
@@ -25,6 +27,7 @@
 * [The BoardList - Find and Recruit Great Women for Company Boards](https://theboardlist.com/)
 * [Time's Up](https://www.timesupnow.com/)
 * [Parity.org](https://parity.org/)
+
 # Books
 * [Eloquent Rage](https://www.goodreads.com/book/show/33574165-eloquent-rage) by Brittney Cooper
 * [Make Trouble](https://www.goodreads.com/book/show/35721620-make-trouble) by Cecile Richards
