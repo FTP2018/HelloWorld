@@ -78,5 +78,9 @@ I'm a straight white woman who grew up fairly privileged. Many women of color an
 - vievehal
 - fionagriffin
 - Jdmd21345
+- martyserosario
+- bkmartinjr
+- jeehaesong
+- jonathaneisen
 
 
