@@ -68,7 +68,7 @@ We have the power to change this. Companies respond to incentives. If enough of 
 
 
 ## Disclaimer 
-I'm a straight white woman who grew up fairly privileged. Many women of color and other underrepresented minorities face barriers I didn't and have even less opportunity to change company culture from the highest level [women of color are 20% of the US population but only hold 3.9% of top level executive and .4% of CEO positions](https://www.americanprogress.org/issues/women/reports/2017/05/21/432758/womens-leadership-gap/) and their stories aren’t really represented here. If you are interested there are links to other women’s stories on the [resources page](https://github.com/FTP2018/HelloWorld/blob/master/resources.md). Additionally if anyone would like a platform for their story, anonymous or otherwise, I will post it here.
+I'm a straight white woman who grew up fairly privileged. Many women of color and other underrepresented minorities face barriers I didn't and have even less opportunity to change company culture from the highest level ([women of color are 20% of the US population but only hold 3.9% of top level executive and .4% of CEO positions](https://www.americanprogress.org/issues/women/reports/2017/05/21/432758/womens-leadership-gap/)) and their stories aren’t really represented here. If you are interested there are links to other women’s stories on the [resources page](https://github.com/FTP2018/HelloWorld/blob/master/resources.md). Additionally if anyone would like a platform for their story, anonymous or otherwise, I will post it here.
 
 
 ## Signatories
