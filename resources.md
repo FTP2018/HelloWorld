@@ -12,6 +12,8 @@
 * [The Radical Boldness of the McDonald’s Sexual-Harassment Strike](https://www.thecut.com/2018/09/mcdonalds-sexual-harassment-strike-takes-place-in-10-cities.html)
 * [All career advice for women is a form of gaslighting](https://qz.com/work/1363399/all-career-advice-for-women-is-a-form-of-gaslighting/)
 * [There is no Unmarked Women](http://academics.otc.edu/media/uploads/sites/2/2015/10/There-is-No-Unmarked-Women.pdf)
+* [Women in S&P 500 Companies by Race/Ethnicity and Level](https://www.americanprogress.org/issues/women/reports/2017/05/21/432758/womens-leadership-gap/)
+* [Why There Are No Black Women Running Fortune 500 Companies](http://fortune.com/2017/01/16/black-women-fortune-500/)
 * [It's Time for 100 Women CEOs in the Fortune 500](https://www.rockefellerfoundation.org/blog/its-time-for-100-women-ceos-in-the-fortune-500/)
 * [Tech Women Choose Possibility](https://www.recode.net/2015/5/13/11562596/tech-women-choose-possibility)
 * [Hundreds Of People Told Us How Sexual Harassment In Tech Derailed Their Careers](https://www.buzzfeednews.com/article/doree/we-surveyed-hundreds-about-techs-harassment-problem)
