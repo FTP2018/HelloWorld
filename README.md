@@ -56,7 +56,7 @@ While these numbers and stories portray DoorDash in a negative light, I don’t 
 
 In 2018, this is disappointing and absurd. Culture and values come from the top and it has been made abundantly clear that while many tech leaders are happy to capitalize on female labor, they do not respect women enough to put them in leadership positions or compensate them fairly for their work.
  
-Twenty years ago, my mom’s best from college, Nikki, taught me about the glass ceiling. She was a VP at a major payments company but knew few women who made it past that level. This flew in the face of my naive understanding of equality of opportunity. I hated that was happening to her, but was so certain it wasn't something I needed to worry about. Two decades later we’ve made very little progress. Women still only hold 4.8% of CEO jobs and 10.6% of board seats at Fortune 500 countries.
+Twenty years ago, my mom’s best from college, Nikki, taught me about the glass ceiling. She was a VP at a major payments company but knew few women who made it past that level. This flew in the face of my naive understanding of equality of opportunity. I hated that was happening to her, but was so certain it wasn't something I needed to worry about. Two decades later we’ve made very little progress. Women still only hold 4.4% of CEO jobs and 10.6% of board seats at Fortune 500 companies. 0% of [Fortune 500 CEOs are black women](https://www.cio.com/article/3302376/careers-staffing/women-still-underrepresented-in-fortune-500-leadership-roles.html)
  
 We cannot let half of the population go unrepresented. The awareness, support and solidarity of the #MeToo movement will only have meaning if the fundamental power structure shifts and we can prevent this type of harassment going forward. In many cases, the perpetrators were able to stay in their position because their companies didn’t care about this behavior. This ambivalence is a cultural problem that comes from the top. The only way to prevent the MeToos of the future and guarantee women’s voices are heard and valued is to ensure we have half the seats at the table. I don’t want to feel solidarity with a new batch of women or hashtag in 2030.
  
@@ -65,6 +65,10 @@ We have the power to change this. Companies respond to incentives. If enough of 
 1. To be clear I’m not saying quit your job, just ensure your next job isn’t at a company that does not have diverse leadership at the top level.
 2. Tip your drivers/delivery people in cash! 
 3. The more women I show this letter to, the more stories I hear.  Sadly these problems are [industry wide](https://www.buzzfeednews.com/article/doree/we-surveyed-hundreds-about-techs-harassment-problem) and deeply entrenched. 
+
+
+## Disclaimer 
+I'm a straight white woman who grew up fairly privileged. Many women of color and other underrepresented minorities face barriers I didn't and have even less opportunity to change company culture from the highest level [women of color are 20% of the US population but only hold 3.9% of top level executive and .4% of CEO positions](https://www.americanprogress.org/issues/women/reports/2017/05/21/432758/womens-leadership-gap/) and their stories aren’t really represented here. If you are interested there are links to other women’s stories on the [resources page](https://github.com/FTP2018/HelloWorld/blob/master/resources.md). Additionally if anyone would like a platform for their story, anonymous or otherwise, I will post it here.
 
 
 ## Signatories
