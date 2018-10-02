@@ -82,5 +82,8 @@ I'm a straight white woman who grew up fairly privileged. Many women of color an
 - bkmartinjr
 - jeehaesong
 - jonathaneisen
-
+- nadineott
+- davidacoil
+- rachelnotrach
+- k116
 
