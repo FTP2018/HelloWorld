@@ -2,14 +2,14 @@
 Companies Without Female Leaders are Fundamentally Flawed
 
 ## TLDR
-Sexism persists in the tech industry. Culture comes from the top, and the only way to stop sexism and prevent future #MeToo moments is to increase the number of women in leadership positions. Add a comment on the [pledge](https://github.com/FTP2018/HelloWorld/issues/5) with your handle as a show of support and a pledge to not interview at or take a job working for companies that don’t have women in 50% of top leadership positions. This is not a call to quit your current job, but to ensure that your next job is at a more equitable company.
+Sexism persists in the tech industry and has a disproportionate impact on women from  marginalized or underrepresented groups (such as women of color). Culture comes from the top, and the only way to stop sexism and prevent future #MeToo moments is to increase the number of women in leadership positions. Add a comment on the [pledge](https://github.com/FTP2018/HelloWorld/issues/5) with your handle as a show of support and a pledge to not interview at or take a job working for companies that don’t have women in 50% of top leadership positions. This is not a call to quit your current job, but to ensure that your next job is at a more equitable company.
 
 ## Pledge
   Add a comment to the [pledge](https://github.com/FTP2018/HelloWorld/issues/5) as a show of support/solidarity. Feel free to tell your story or just sign with your github handle. 
   * To not interview with such companies
   * To not take a job working for such companies<sup>1</sup>
 
-If you work at a particularly egregious offender (0-1 women at the top level) or are just excited to have an opportunity to work at a company where women’s voices are heard, there will be a networking event on October 30th. Email network@ftp2018.com for a calendar invite with more details!
+If you work at a particularly egregious offender (0-1 women at the top level) or are just excited to have an opportunity to work at a company where women’s voices are heard, there will be an networking event in early November. Email network@ftp2018.com for a calendar invite with more details!
 
 If you are a company interested in attending (and 50% of your top level leadership team is female), feel free to email contact@ftp2018.com. 
 
@@ -21,6 +21,9 @@ If we make it harder for companies lacking diversity at their highest levels to 
 I worked as a software engineer at DoorDash from November of 2016 to May of 2018. While there, I both experienced and witnessed numerous acts of sexism. Some of these experiences are detailed below, in the hopes that transparency will illustrate why it is so important to push for change. The stories I didn’t personally experience were told directly to me by the by the women who did and I believe them to be true. 
 
 The majority of the situations described were reported to HR or a member of the executive team, but from my perspective little, if anything, was done to prevent these situations from occurring again.
+
+## Disclaimer 
+I'm a straight white woman who grew up fairly privileged. This privilege, including a lack of college debt, is the main reason I was able to accept the risks of publishing this letter. Many women of color and other underrepresented minorities face barriers I didn't and have even less opportunity to change company culture from the highest level ([women of color are 20% of the US population but only hold 3.9% of top level executive and .4% of CEO positions](https://www.americanprogress.org/issues/women/reports/2017/05/21/432758/womens-leadership-gap/)) and their stories aren’t really represented here. If you are interested there are links to other women’s stories on the [resources page](https://github.com/FTP2018/HelloWorld/blob/master/resources.md). Additionally if anyone would like a platform for their story, you are welcome to add a commit to this repo. If you prefer to remain anonymous, you can send it to metoo@ftp2018.com and I will post it here.
  
 -- Two months after I started, an engineer on my team I barely spoke with brought gifts back from his holiday trip for everyone on the team. The men received a variety of gifts including a painting and bookmarks. All of the women got face cream, except for me. I received sex dice. Each side of the dice contained stick figures engaging in a sexual activity and a description of each written in Chinese characters (kiss, spank, etc). When I asked the giver about the gift, he responded that “you have to play with your boyfriend to find out, I played with my wife last night”. I called over the product manager (PM) for my team, handed him the dice and asked my coworker to repeat what he had said. He repeated it verbatim, at which point my PM immediately put the dice back on my desk, said “I’m not touching this” and walked away. He never brought the incident up to me again.
  
@@ -66,9 +69,6 @@ We have the power to change this. Companies respond to incentives. If enough of 
 2. Tip your drivers/delivery people in cash! 
 3. The more women I show this letter to, the more stories I hear.  Sadly these problems are [industry wide](https://www.buzzfeednews.com/article/doree/we-surveyed-hundreds-about-techs-harassment-problem) and deeply entrenched. 
 
-
-## Disclaimer 
-I'm a straight white woman who grew up fairly privileged. Many women of color and other underrepresented minorities face barriers I didn't and have even less opportunity to change company culture from the highest level ([women of color are 20% of the US population but only hold 3.9% of top level executive and .4% of CEO positions](https://www.americanprogress.org/issues/women/reports/2017/05/21/432758/womens-leadership-gap/)) and their stories aren’t really represented here. If you are interested there are links to other women’s stories on the [resources page](https://github.com/FTP2018/HelloWorld/blob/master/resources.md). Additionally if anyone would like a platform for their story, anonymous or otherwise, I will post it here.
 
 
 ## Signatories

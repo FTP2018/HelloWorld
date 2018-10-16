@@ -21,6 +21,8 @@
 * [How Black Women Describe Navigating Race and Gender in the Workplace](https://hbr.org/2018/03/how-black-women-describe-navigating-race-and-gender-in-the-workplace)
 # Groups/Projects
 * [Project Include](http://projectinclude.org/)
+* [Kapor Center](https://www.kaporcenter.org/)
+* [DigitalUndivided](https://www.digitalundivided.com/)
 * [Hire More Women in Tech](https://www.hiremorewomenintech.com/)
 * [Where are the numbers?](https://medium.com/@triketora/where-are-the-numbers-cb997a57252) -- [git repo](https://github.com/triketora/women-in-software-eng)
 * [Where are the boss ladies?](https://www.wherearethebossladies.com/)
@@ -29,6 +31,7 @@
 * [Parity.org](https://parity.org/)
 
 # Books
+* [Bad Feminist](https://www.goodreads.com/book/show/18813642-bad-feminist) by Roxane Gay
 * [Eloquent Rage](https://www.goodreads.com/book/show/33574165-eloquent-rage) by Brittney Cooper
 * [Make Trouble](https://www.goodreads.com/book/show/35721620-make-trouble) by Cecile Richards
 * [Men Explain Things To Me](https://www.goodreads.com/book/show/18528190-men-explain-things-to-me) by Rebecca Solnit
