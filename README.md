@@ -9,9 +9,6 @@ Sexism persists in the tech industry and has a disproportionate impact on women 
   * To not interview with such companies
   * To not take a job working for such companies<sup>1</sup>
 
-If you work at a particularly egregious offender (0-1 women at the top level) or are just excited to have an opportunity to work at a company where women’s voices are heard, there will be an networking event in early November. Email network@ftp2018.com for a calendar invite with more details!
-
-If you are a company interested in attending (and 50% of your top level leadership team is female), feel free to email contact@ftp2018.com. 
 
 If you have data to help track the gender breakdown in leadership, please include it in your PR (or for anonymity fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScARkv72KaHbcB2rpKBfCX9jKLlG2na7SeCNUKm1-gm-yOi0A/viewform)). Phone screens are a great opportunity to ask for this information!
 
@@ -39,7 +36,7 @@ A month later, following Susan Fowler’s letter describing her experience at Ub
  
 Then, a newly hired female PM asked me about the dynamics she had observed in a meeting and encouraged me to discuss the issue I was having with my manager’s manager. In our next 1:1, my manager apologized for his treatment of me, pleading stress. He promised our interactions would be better in the future. For the first time in a long time, I felt hopeful.
  
-A week later I was put on a personal improvement plan (PIP). I was completely blindsided, I think this is when DoorDash fully broke me. I felt completely betrayed and cried through the meeting with my manager and his manager, physically unable to speak up in my defense as they presented me with a list of the ‘bugs’ that had precipitated the PIP, my manager becoming increasingly uncomfortable, eventually getting up and leaving the meeting.
+A week later I was put on a personal improvement plan (PIP). I was completely blindsided, I think this was my lowest point at DoorDash. I felt completely betrayed and cried through the meeting with my manager and his manager, physically unable to speak up in my defense as they presented me with a list of the ‘bugs’ that had precipitated the PIP, my manager becoming increasingly uncomfortable, eventually getting up and leaving the meeting.
  
 During the three months I was on the PIP, my manager rarely brought up my performance in most of our 1:1s. When I directly asked about my performance and what I could improve on, he provided vague non-responses. At the end of the 3 months, I was taken off the PIP with an email about my improvement and no further comments from him. His manager took the time to apologize to me in a 1:1 and told me I shouldn’t have been put on the PIP and she would have fought it harder if she had a better understanding of the situation.
  
